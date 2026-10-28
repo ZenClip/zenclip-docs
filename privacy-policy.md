@@ -31,4 +31,4 @@ Local information remains until you delete it or remove the app's data. Delete c
 
 ## Contact
 
-For privacy questions or deletion assistance, use the support contact on ZenClip's Mac App Store product page.
+For privacy questions or deletion assistance, email privacy@n0n.cc. Please do not include sensitive information until you have confirmed what is needed to respond to your request.
