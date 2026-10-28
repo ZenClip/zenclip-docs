@@ -19,6 +19,8 @@ If enabled, iCloud sync stores supported data in your iCloud account. Notion syn
 
 To provide requested content, ZenClip may send Apple Music searches to Apple, track details to LRCLIB or lyrics.ovh, city and calculation details to AlAdhan, and Quran passage or edition identifiers to the chosen Quran service. Weather searches and forecasts use Open-Meteo. These services receive normal network information such as your IP address. Their handling and retention of data are governed by their own terms and privacy policies. ZenClip's developer does not operate an AI relay server or receive a separate copy of these requests.
 
+When you request a share link, the selected files are uploaded to your connected Dropbox account or the sharing server you configured. Anyone with a share link may be able to access those files; use the service’s controls to manage or delete them. Screenshot background searches send search terms to the selected photo provider, such as Wikimedia Commons, Openverse, Unsplash, Pexels, or Pixabay. Some on-device AI, speech, and search features download models from Hugging Face or its content delivery providers when enabled; network requests include normal connection information.
+
 ## Permissions
 
 Camera, microphone, screen recording, Calendar, Reminders, Accessibility, Apple Music and Automation permissions support the features you choose to use. You can change permissions in macOS System Settings. Accessibility supports paste automation and menu-bar placement.
